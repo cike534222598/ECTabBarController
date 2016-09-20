@@ -1,0 +1,16 @@
+PODS:
+  - ECTabBarController (0.1.0)
+
+DEPENDENCIES:
+  - ECTabBarController (from `../`)
+
+EXTERNAL SOURCES:
+  ECTabBarController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ECTabBarController: 964ec7dcd5f55ca08709e2b0dcfe550c6d4e15b8
+
+PODFILE CHECKSUM: 004d5b2db2cf945a426c2a73a1757da3c1cb1a7f
+
+COCOAPODS: 1.0.1

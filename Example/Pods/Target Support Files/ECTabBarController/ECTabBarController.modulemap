@@ -1,0 +1,6 @@
+framework module ECTabBarController {
+  umbrella header "ECTabBarController-umbrella.h"
+
+  export *
+  module * { export * }
+}
