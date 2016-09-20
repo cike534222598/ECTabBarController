@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ECTabBarController_Example' do
+  pod 'ECTabBarController', :path => '../'
+
+  target 'ECTabBarController_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
