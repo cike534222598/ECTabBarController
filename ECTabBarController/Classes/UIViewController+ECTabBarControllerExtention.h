@@ -6,7 +6,7 @@
 //  Copyright (c) 2016 Jame. All rights reserved.
 //
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 typedef void (^ECPopSelectTabBarChildViewControllerCompletion)(__kindof UIViewController *selectedTabBarChildViewController);
 

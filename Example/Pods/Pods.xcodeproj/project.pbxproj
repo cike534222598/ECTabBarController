@@ -1,1794 +1,735 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>archiveVersion</key>
-	<string>1</string>
-	<key>classes</key>
-	<dict/>
-	<key>objectVersion</key>
-	<string>46</string>
-	<key>objects</key>
-	<dict>
-		<key>0099F9E17E0C441D3D2C024F4B2C38A7</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>ECTabBarController.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0ACDCBCB0B6796575F46FFA2F5410C6B</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_ANALYZER_NONNULL</key>
-				<string>YES</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>ENABLE_NS_ASSERTIONS</key>
-				<string>NO</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>POD_CONFIGURATION_RELEASE=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>STRIP_INSTALLED_PRODUCT</key>
-				<string>NO</string>
-				<key>SYMROOT</key>
-				<string>${SRCROOT}/../build</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>0C3B2E111D8F17C9ADDCF8DBDFCEB461</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>ECPlusButton.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0F9D6E068C32C543EB28060BD424A543</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>D06E392AF169D3D70DB85A4BDBA45531</string>
-				<string>81426112F1EE44F8A7C8CA341EE6DBBC</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>10C5666620B5CD1F5B4F839A70274D45</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>ECTabBarController-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>130CDB6E3BBE61611D79306322E1C034</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>9A52B931B6D0EAD7C152404D14660A8E</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-ECTabBarController_Tests/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-ECTabBarController_Tests/Pods-ECTabBarController_Tests.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>org.cocoapods.${PRODUCT_NAME:rfc1034identifier}</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_ECTabBarController_Tests</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>13F40BC20E0B5B1901085ED947D9806B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-ECTabBarController_Example.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>14FAA0BB58F185344755322F2B060A75</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>448A4E74F5D40926BB1CB491346CC329</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>16686B8F9ACC103711C67743C57CEB4B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D1FD4FE33FFC5D06A4D48D7EFB730307</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>17F2EC0F0B121BB6053494F0B08F78DF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>BC78269E44483ACE1E7A9802E4313356</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>1A3092D1CA2042A290CE6CE0E25774A0</key>
-		<dict>
-			<key>fileRef</key>
-			<string>0099F9E17E0C441D3D2C024F4B2C38A7</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>1BDBB9D187B2C07DFE146A98134E4262</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>ECPlusButton.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1D9E4A76C03CF7FC49A9C9AF3F16AC99</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>ECTabBarController.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1FEFDB9C401347295ADE44656D7D2C2E</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>739B13D4E2ADA69FA044E86CF2CCD166</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf-with-dsym</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-ECTabBarController_Example/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-ECTabBarController_Example/Pods-ECTabBarController_Example.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>org.cocoapods.${PRODUCT_NAME:rfc1034identifier}</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_ECTabBarController_Example</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>235A43704850C991D9B884D6CFEF4AB9</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-ECTabBarController_Example-frameworks.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>236E3284517FEDA24989DCA847A4BEA7</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>Pods_ECTabBarController_Example.framework</string>
-			<key>path</key>
-			<string>Pods-ECTabBarController_Example.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>265FAEC4C2774AA6B4A66FD7C6182EE9</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>name</key>
-			<string>ECTabBarController</string>
-			<key>target</key>
-			<string>8211D400B04068F322AD52E8D545231E</string>
-			<key>targetProxy</key>
-			<string>9A978945AF2452ED2548656EF783344B</string>
-		</dict>
-		<key>29F215E61B78DEDC0ED7F2E4BFFF5387</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B2DD3FDF48D39774A9AE8122E0082A29</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2B4BA1919F506BF6380791FF62464219</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-ECTabBarController_Example-resources.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2D0EFF947EA4E424D7696104F2EE67DE</key>
-		<dict>
-			<key>fileRef</key>
-			<string>51A1D9E6C0F4F4F1D52676A7F6B202DF</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2D8E8EC45A3A1A1D94AE762CB5028504</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>D3E3D092A3FF7311A98E44BBA36FFD12</string>
-				<string>0ACDCBCB0B6796575F46FFA2F5410C6B</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>32199F9C543868E7FA922F9D84D4518D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-ECTabBarController_Example-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>392C2C92685A421AF9CADDC827A16937</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-ECTabBarController_Tests.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3DCAB2B7CDE207B3958B6CB957FCC758</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>CEC22C73C1608DFA5D5D78BDCB218219</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>iOS</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3E39E1FD8697B182FE7E803F26E14339</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>13F40BC20E0B5B1901085ED947D9806B</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-ECTabBarController_Example/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-ECTabBarController_Example/Pods-ECTabBarController_Example.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>org.cocoapods.${PRODUCT_NAME:rfc1034identifier}</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_ECTabBarController_Example</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>3EC21DEC6FD50EB3DBCF0C940DF8BCF7</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>ECTabBar.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4141836A39E63B97F989587C3465F889</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>path</key>
-			<string>Pods-ECTabBarController_Example-acknowledgements.markdown</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>42ECE9CF1AFDC6B1A2A8C92BEDDC7C0E</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>17F2EC0F0B121BB6053494F0B08F78DF</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>448A4E74F5D40926BB1CB491346CC329</key>
-		<dict>
-			<key>fileRef</key>
-			<string>CEC22C73C1608DFA5D5D78BDCB218219</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>4B173A76181F195A313A9BE27FA19BC2</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-ECTabBarController_Tests-umbrella.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4B92F4F45C4CCB2A554B5E4AAE2F6F17</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4D5AD7DA08E4D6F91558737265DC36DD</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Pods-ECTabBarController_Example-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4FC1D7FA09C76F1C10785ED22DE5B9E3</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-ECTabBarController_Tests-frameworks.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4FF21EAFDFF3907BF10B6C036C0CD5EB</key>
-		<dict>
-			<key>fileRef</key>
-			<string>CEC22C73C1608DFA5D5D78BDCB218219</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>51A1D9E6C0F4F4F1D52676A7F6B202DF</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>UIViewController+ECTabBarControllerExtention.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>532FF7FAC5EABAA4674C0C283B3FBAE5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>ECTabBarController.modulemap</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>64EA3AECE414883CBC0B5C67B40FA580</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>882955C53A2F5A4FCA0ED554498D403B</string>
-				<string>8DFFB361A931109EF194B1863B0FDD71</string>
-				<string>8EB2C6BD4358816B3D38AFE1401339B0</string>
-				<string>7316EC52E0EF33AF63A65A9C0600046B</string>
-				<string>1A3092D1CA2042A290CE6CE0E25774A0</string>
-				<string>16686B8F9ACC103711C67743C57CEB4B</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>67A96EAF8BE5A02B0E3345C9F16D0F4F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6CBE471E8C337289A06182C339F18EEA</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>68AC97CB285FE0B4CF271EFAEC303B6A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6CBE471E8C337289A06182C339F18EEA</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-ECTabBarController_Example-umbrella.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E8B377336EDAE792839EAA65BE675D5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>path</key>
-			<string>Pods-ECTabBarController_Tests-acknowledgements.markdown</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>726B1961BCE5EA1F73BC5AEE5311E089</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>E276956998008829551BAE1E6A0A4E45</string>
-				<string>EDD58193E93AF25FD213E75FAB511585</string>
-				<string>29F215E61B78DEDC0ED7F2E4BFFF5387</string>
-				<string>EA3267BB16190CE671AD136A00A2B24A</string>
-				<string>2D0EFF947EA4E424D7696104F2EE67DE</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>7316EC52E0EF33AF63A65A9C0600046B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D62A88289A1066C9B2C7AEB311B7CF52</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>739B13D4E2ADA69FA044E86CF2CCD166</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-ECTabBarController_Example.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>752537D82B3E7AD5283722CC70E8BE99</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>Pods-ECTabBarController_Example.modulemap</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>79F8235BEA1B0BB1628F2DAC90C97354</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>ECTabBar.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7DB346D0F39D3F0E887471402A8071AB</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>93A4A3777CF96A4AAC1D13BA6DCCEA73</string>
-				<string>F25402993103A2E9023B83E27FC9F72D</string>
-				<string>BC3CA7F9E30CC8F7E2DD044DD34432FC</string>
-				<string>C62C90E0F1C8BA3B5B06C15F5BBEFC59</string>
-				<string>81F7B1DF720AA0087CDD4C2F2CB45656</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>81426112F1EE44F8A7C8CA341EE6DBBC</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>B7633548701CA9642C33218E829B3AEA</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf-with-dsym</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/ECTabBarController/ECTabBarController-prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/ECTabBarController/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.0</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/ECTabBarController/ECTabBarController.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>PRODUCT_NAME</key>
-				<string>ECTabBarController</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>81F7B1DF720AA0087CDD4C2F2CB45656</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>D4083306B55CFDE5CDFFB36E82CE59BD</string>
-				<string>FFBD9E6B694EE53F62C0A3AF9DC0097C</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Targets Support Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8211D400B04068F322AD52E8D545231E</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>0F9D6E068C32C543EB28060BD424A543</string>
-			<key>buildPhases</key>
-			<array>
-				<string>726B1961BCE5EA1F73BC5AEE5311E089</string>
-				<string>CF7A898690A59344CF0BEFBE2DA386D5</string>
-				<string>64EA3AECE414883CBC0B5C67B40FA580</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>ECTabBarController</string>
-			<key>productName</key>
-			<string>ECTabBarController</string>
-			<key>productReference</key>
-			<string>AF21D1317BAA26F79627CACEB820F326</string>
-			<key>productType</key>
-			<string>com.apple.product-type.framework</string>
-		</dict>
-		<key>882955C53A2F5A4FCA0ED554498D403B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>ED984DBEEEB5099F259ADDE6DC34910A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>8DFFB361A931109EF194B1863B0FDD71</key>
-		<dict>
-			<key>fileRef</key>
-			<string>0C3B2E111D8F17C9ADDCF8DBDFCEB461</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>8EA8E425A3279DA673F50A375683062D</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>AAA5BA1DB5B0F6847D1E8769297ECEBF</string>
-			<key>buildPhases</key>
-			<array>
-				<string>BD6EA23BB7316E3DA5015F8AF65F4937</string>
-				<string>EC39BD0968DCFA34105A254422C7D97B</string>
-				<string>C9E61337B1B99AEFA64BC91D03A537B7</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>265FAEC4C2774AA6B4A66FD7C6182EE9</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-ECTabBarController_Example</string>
-			<key>productName</key>
-			<string>Pods-ECTabBarController_Example</string>
-			<key>productReference</key>
-			<string>236E3284517FEDA24989DCA847A4BEA7</string>
-			<key>productType</key>
-			<string>com.apple.product-type.framework</string>
-		</dict>
-		<key>8EB2C6BD4358816B3D38AFE1401339B0</key>
-		<dict>
-			<key>fileRef</key>
-			<string>79F8235BEA1B0BB1628F2DAC90C97354</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>93A4A3777CF96A4AAC1D13BA6DCCEA73</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>text.script.ruby</string>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>name</key>
-			<string>Podfile</string>
-			<key>path</key>
-			<string>../Podfile</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-			<key>xcLanguageSpecificationIdentifier</key>
-			<string>xcode.lang.ruby</string>
-		</dict>
-		<key>9A52B931B6D0EAD7C152404D14660A8E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-ECTabBarController_Tests.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9A978945AF2452ED2548656EF783344B</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>D41D8CD98F00B204E9800998ECF8427E</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>8211D400B04068F322AD52E8D545231E</string>
-			<key>remoteInfo</key>
-			<string>ECTabBarController</string>
-		</dict>
-		<key>A3FB3E54ADE9413B8D047B8390A43A13</key>
-		<dict>
-			<key>fileRef</key>
-			<string>CEC22C73C1608DFA5D5D78BDCB218219</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>AAA5BA1DB5B0F6847D1E8769297ECEBF</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>3E39E1FD8697B182FE7E803F26E14339</string>
-				<string>1FEFDB9C401347295ADE44656D7D2C2E</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>AF21D1317BAA26F79627CACEB820F326</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>ECTabBarController.framework</string>
-			<key>path</key>
-			<string>ECTabBarController.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>B223ADAF732C9B2356AB7B31B79FF9D5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-ECTabBarController_Tests-resources.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B2DD3FDF48D39774A9AE8122E0082A29</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>ECTabBarController-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B7633548701CA9642C33218E829B3AEA</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>ECTabBarController.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BC3CA7F9E30CC8F7E2DD044DD34432FC</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>3DCAB2B7CDE207B3958B6CB957FCC758</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BC78269E44483ACE1E7A9802E4313356</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-ECTabBarController_Tests-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BD6EA23BB7316E3DA5015F8AF65F4937</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>CAE0FFBF712AD4FF69738B6C3824736B</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>C26857C46CE0D77259D293982976227E</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>ED984DBEEEB5099F259ADDE6DC34910A</string>
-				<string>0C3B2E111D8F17C9ADDCF8DBDFCEB461</string>
-				<string>1BDBB9D187B2C07DFE146A98134E4262</string>
-				<string>79F8235BEA1B0BB1628F2DAC90C97354</string>
-				<string>3EC21DEC6FD50EB3DBCF0C940DF8BCF7</string>
-				<string>0099F9E17E0C441D3D2C024F4B2C38A7</string>
-				<string>1D9E4A76C03CF7FC49A9C9AF3F16AC99</string>
-				<string>D1FD4FE33FFC5D06A4D48D7EFB730307</string>
-				<string>51A1D9E6C0F4F4F1D52676A7F6B202DF</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Classes</string>
-			<key>path</key>
-			<string>Classes</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C62C90E0F1C8BA3B5B06C15F5BBEFC59</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>AF21D1317BAA26F79627CACEB820F326</string>
-				<string>236E3284517FEDA24989DCA847A4BEA7</string>
-				<string>FB7017AC38658DCC7F37CD33F5B7DF91</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C6CB6AE9B266EDFC9C10F2953F7A8EE4</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>E198CDE6556A13AF4BC4C352DF2E0461</string>
-			<key>buildPhases</key>
-			<array>
-				<string>42ECE9CF1AFDC6B1A2A8C92BEDDC7C0E</string>
-				<string>14FAA0BB58F185344755322F2B060A75</string>
-				<string>FBF0060B5DE706FB3274B7768CBEC457</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-ECTabBarController_Tests</string>
-			<key>productName</key>
-			<string>Pods-ECTabBarController_Tests</string>
-			<key>productReference</key>
-			<string>FB7017AC38658DCC7F37CD33F5B7DF91</string>
-			<key>productType</key>
-			<string>com.apple.product-type.framework</string>
-		</dict>
-		<key>C9E61337B1B99AEFA64BC91D03A537B7</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>67A96EAF8BE5A02B0E3345C9F16D0F4F</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>CAE0FFBF712AD4FF69738B6C3824736B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>32199F9C543868E7FA922F9D84D4518D</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>CEC22C73C1608DFA5D5D78BDCB218219</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Foundation.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/Foundation.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>CF7A898690A59344CF0BEFBE2DA386D5</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>4FF21EAFDFF3907BF10B6C036C0CD5EB</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>D06E392AF169D3D70DB85A4BDBA45531</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>B7633548701CA9642C33218E829B3AEA</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/ECTabBarController/ECTabBarController-prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/ECTabBarController/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.0</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/ECTabBarController/ECTabBarController.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>PRODUCT_NAME</key>
-				<string>ECTabBarController</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>D1FD4FE33FFC5D06A4D48D7EFB730307</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>UIViewController+ECTabBarControllerExtention.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D3C33A242FDC2A12A37DA3DCDFE7D439</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>F628043E61BF8065357E3FFF9650B2BD</string>
-				<string>F682F21F42FE8AF863B20B51E8A5D89A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>ECTabBarController</string>
-			<key>path</key>
-			<string>../..</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D3E3D092A3FF7311A98E44BBA36FFD12</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_ANALYZER_NONNULL</key>
-				<string>YES</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>ENABLE_TESTABILITY</key>
-				<string>YES</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>POD_CONFIGURATION_DEBUG=1</string>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>ONLY_ACTIVE_ARCH</key>
-				<string>YES</string>
-				<key>STRIP_INSTALLED_PRODUCT</key>
-				<string>NO</string>
-				<key>SYMROOT</key>
-				<string>${SRCROOT}/../build</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>D4083306B55CFDE5CDFFB36E82CE59BD</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>68AC97CB285FE0B4CF271EFAEC303B6A</string>
-				<string>752537D82B3E7AD5283722CC70E8BE99</string>
-				<string>4141836A39E63B97F989587C3465F889</string>
-				<string>4D5AD7DA08E4D6F91558737265DC36DD</string>
-				<string>32199F9C543868E7FA922F9D84D4518D</string>
-				<string>235A43704850C991D9B884D6CFEF4AB9</string>
-				<string>2B4BA1919F506BF6380791FF62464219</string>
-				<string>6CBE471E8C337289A06182C339F18EEA</string>
-				<string>13F40BC20E0B5B1901085ED947D9806B</string>
-				<string>739B13D4E2ADA69FA044E86CF2CCD166</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods-ECTabBarController_Example</string>
-			<key>path</key>
-			<string>Target Support Files/Pods-ECTabBarController_Example</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D41D8CD98F00B204E9800998ECF8427E</key>
-		<dict>
-			<key>attributes</key>
-			<dict>
-				<key>LastSwiftUpdateCheck</key>
-				<string>0730</string>
-				<key>LastUpgradeCheck</key>
-				<string>0700</string>
-			</dict>
-			<key>buildConfigurationList</key>
-			<string>2D8E8EC45A3A1A1D94AE762CB5028504</string>
-			<key>compatibilityVersion</key>
-			<string>Xcode 3.2</string>
-			<key>developmentRegion</key>
-			<string>English</string>
-			<key>hasScannedForEncodings</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXProject</string>
-			<key>knownRegions</key>
-			<array>
-				<string>en</string>
-			</array>
-			<key>mainGroup</key>
-			<string>7DB346D0F39D3F0E887471402A8071AB</string>
-			<key>productRefGroup</key>
-			<string>C62C90E0F1C8BA3B5B06C15F5BBEFC59</string>
-			<key>projectDirPath</key>
-			<string></string>
-			<key>projectReferences</key>
-			<array/>
-			<key>projectRoot</key>
-			<string></string>
-			<key>targets</key>
-			<array>
-				<string>8211D400B04068F322AD52E8D545231E</string>
-				<string>8EA8E425A3279DA673F50A375683062D</string>
-				<string>C6CB6AE9B266EDFC9C10F2953F7A8EE4</string>
-			</array>
-		</dict>
-		<key>D62A88289A1066C9B2C7AEB311B7CF52</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>ECTabBarController-umbrella.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D800E8F1DB5DC97617A10B4C052BE71B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>Pods-ECTabBarController_Tests.modulemap</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>DE0E93442DE708C44F04A9B376C1FA13</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>392C2C92685A421AF9CADDC827A16937</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf-with-dsym</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-ECTabBarController_Tests/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-ECTabBarController_Tests/Pods-ECTabBarController_Tests.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>org.cocoapods.${PRODUCT_NAME:rfc1034identifier}</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_ECTabBarController_Tests</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>DE8AC72108C619E6B6BA9A099466685E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Pods-ECTabBarController_Tests-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E198CDE6556A13AF4BC4C352DF2E0461</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>130CDB6E3BBE61611D79306322E1C034</string>
-				<string>DE0E93442DE708C44F04A9B376C1FA13</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>E1A54D180CE622FF99166905D1D48AF9</key>
-		<dict>
-			<key>fileRef</key>
-			<string>4B173A76181F195A313A9BE27FA19BC2</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>E276956998008829551BAE1E6A0A4E45</key>
-		<dict>
-			<key>fileRef</key>
-			<string>1BDBB9D187B2C07DFE146A98134E4262</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E80C3ED126EFE55C8C0E1B6AF2554C8C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EA3267BB16190CE671AD136A00A2B24A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>1D9E4A76C03CF7FC49A9C9AF3F16AC99</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>EC39BD0968DCFA34105A254422C7D97B</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>A3FB3E54ADE9413B8D047B8390A43A13</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>ED984DBEEEB5099F259ADDE6DC34910A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>ECConstants.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EDD58193E93AF25FD213E75FAB511585</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3EC21DEC6FD50EB3DBCF0C940DF8BCF7</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F25402993103A2E9023B83E27FC9F72D</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>D3C33A242FDC2A12A37DA3DCDFE7D439</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Development Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F628043E61BF8065357E3FFF9650B2BD</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>C26857C46CE0D77259D293982976227E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>ECTabBarController</string>
-			<key>path</key>
-			<string>ECTabBarController</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F682F21F42FE8AF863B20B51E8A5D89A</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>532FF7FAC5EABAA4674C0C283B3FBAE5</string>
-				<string>B7633548701CA9642C33218E829B3AEA</string>
-				<string>B2DD3FDF48D39774A9AE8122E0082A29</string>
-				<string>10C5666620B5CD1F5B4F839A70274D45</string>
-				<string>D62A88289A1066C9B2C7AEB311B7CF52</string>
-				<string>4B92F4F45C4CCB2A554B5E4AAE2F6F17</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>Example/Pods/Target Support Files/ECTabBarController</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FB7017AC38658DCC7F37CD33F5B7DF91</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>Pods_ECTabBarController_Tests.framework</string>
-			<key>path</key>
-			<string>Pods-ECTabBarController_Tests.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>FBF0060B5DE706FB3274B7768CBEC457</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>E1A54D180CE622FF99166905D1D48AF9</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>FFBD9E6B694EE53F62C0A3AF9DC0097C</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>E80C3ED126EFE55C8C0E1B6AF2554C8C</string>
-				<string>D800E8F1DB5DC97617A10B4C052BE71B</string>
-				<string>6E8B377336EDAE792839EAA65BE675D5</string>
-				<string>DE8AC72108C619E6B6BA9A099466685E</string>
-				<string>BC78269E44483ACE1E7A9802E4313356</string>
-				<string>4FC1D7FA09C76F1C10785ED22DE5B9E3</string>
-				<string>B223ADAF732C9B2356AB7B31B79FF9D5</string>
-				<string>4B173A76181F195A313A9BE27FA19BC2</string>
-				<string>9A52B931B6D0EAD7C152404D14660A8E</string>
-				<string>392C2C92685A421AF9CADDC827A16937</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods-ECTabBarController_Tests</string>
-			<key>path</key>
-			<string>Target Support Files/Pods-ECTabBarController_Tests</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-	</dict>
-	<key>rootObject</key>
-	<string>D41D8CD98F00B204E9800998ECF8427E</string>
-</dict>
-</plist>
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2278F8F9ACF658FDD47C513D9D97F4AA /* Pods-ECTabBarController_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B173A76181F195A313A9BE27FA19BC2 /* Pods-ECTabBarController_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2BB386D925B482343CD24E45B72A8721 /* ECTabBarController-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B2DD3FDF48D39774A9AE8122E0082A29 /* ECTabBarController-dummy.m */; };
+		2F3311F3526DD510AFC9412397770DB3 /* ECTabBarController.h in Headers */ = {isa = PBXBuildFile; fileRef = 0099F9E17E0C441D3D2C024F4B2C38A7 /* ECTabBarController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3A7BF5D5C5C48F11B804947A435DDDBF /* ECTabBarController-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D62A88289A1066C9B2C7AEB311B7CF52 /* ECTabBarController-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		682EBD7B67C5D0AD9FDD1EDDFDAFC6D3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
+		6F80A3CAD21A9B753FB6B8DF45DF3C1E /* ECTabBar.h in Headers */ = {isa = PBXBuildFile; fileRef = 79F8235BEA1B0BB1628F2DAC90C97354 /* ECTabBar.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		76ED15C00FDBAD8ABEB694B55C4B9F5B /* ECTabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EC21DEC6FD50EB3DBCF0C940DF8BCF7 /* ECTabBar.m */; };
+		8105660595B90CB3FD1C287DDC21DF03 /* Pods-ECTabBarController_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BC78269E44483ACE1E7A9802E4313356 /* Pods-ECTabBarController_Tests-dummy.m */; };
+		B1499079D18583558D9787A987871787 /* ECPlusButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 0C3B2E111D8F17C9ADDCF8DBDFCEB461 /* ECPlusButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B88428E517FB70DE38910883BD0ACAC7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
+		C58065004C4415AA3C30604BACD9E944 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
+		D1F268216D0765CC0FD1A52006B52450 /* ECPlusButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BDBB9D187B2C07DFE146A98134E4262 /* ECPlusButton.m */; };
+		D2DAD838E53D97583945F5D183F0A15B /* ECConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = ED984DBEEEB5099F259ADDE6DC34910A /* ECConstants.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DC134D7C86CC7F4C62AD8F1D69A3B5A5 /* UIViewController+ECTabBarControllerExtention.m in Sources */ = {isa = PBXBuildFile; fileRef = 51A1D9E6C0F4F4F1D52676A7F6B202DF /* UIViewController+ECTabBarControllerExtention.m */; };
+		E313880B2C829ED532E2FD96207784BA /* UIViewController+ECTabBarControllerExtention.h in Headers */ = {isa = PBXBuildFile; fileRef = D1FD4FE33FFC5D06A4D48D7EFB730307 /* UIViewController+ECTabBarControllerExtention.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EA306EC12E3B313ACD9A11B5683EE8C8 /* Pods-ECTabBarController_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 6CBE471E8C337289A06182C339F18EEA /* Pods-ECTabBarController_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EE2A9468BB662B37E90384B8E8B24407 /* ECTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D9E4A76C03CF7FC49A9C9AF3F16AC99 /* ECTabBarController.m */; };
+		F74C8509B14162AB863F3C4C224085B3 /* Pods-ECTabBarController_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 32199F9C543868E7FA922F9D84D4518D /* Pods-ECTabBarController_Example-dummy.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		500C498F3BCA338065FF59C6C4EFDAD3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 94EED4F8A971EA5E2FE3996C7CFFCD59;
+			remoteInfo = ECTabBarController;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0099F9E17E0C441D3D2C024F4B2C38A7 /* ECTabBarController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ECTabBarController.h; sourceTree = "<group>"; };
+		0C3B2E111D8F17C9ADDCF8DBDFCEB461 /* ECPlusButton.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ECPlusButton.h; sourceTree = "<group>"; };
+		10C5666620B5CD1F5B4F839A70274D45 /* ECTabBarController-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ECTabBarController-prefix.pch"; sourceTree = "<group>"; };
+		13F40BC20E0B5B1901085ED947D9806B /* Pods-ECTabBarController_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ECTabBarController_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		1BDBB9D187B2C07DFE146A98134E4262 /* ECPlusButton.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ECPlusButton.m; sourceTree = "<group>"; };
+		1D9E4A76C03CF7FC49A9C9AF3F16AC99 /* ECTabBarController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ECTabBarController.m; sourceTree = "<group>"; };
+		235A43704850C991D9B884D6CFEF4AB9 /* Pods-ECTabBarController_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ECTabBarController_Example-frameworks.sh"; sourceTree = "<group>"; };
+		236E3284517FEDA24989DCA847A4BEA7 /* Pods_ECTabBarController_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ECTabBarController_Example.framework; path = "Pods-ECTabBarController_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B4BA1919F506BF6380791FF62464219 /* Pods-ECTabBarController_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ECTabBarController_Example-resources.sh"; sourceTree = "<group>"; };
+		32199F9C543868E7FA922F9D84D4518D /* Pods-ECTabBarController_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ECTabBarController_Example-dummy.m"; sourceTree = "<group>"; };
+		392C2C92685A421AF9CADDC827A16937 /* Pods-ECTabBarController_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ECTabBarController_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		3EC21DEC6FD50EB3DBCF0C940DF8BCF7 /* ECTabBar.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ECTabBar.m; sourceTree = "<group>"; };
+		4141836A39E63B97F989587C3465F889 /* Pods-ECTabBarController_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ECTabBarController_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		4B173A76181F195A313A9BE27FA19BC2 /* Pods-ECTabBarController_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ECTabBarController_Tests-umbrella.h"; sourceTree = "<group>"; };
+		4B92F4F45C4CCB2A554B5E4AAE2F6F17 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4D5AD7DA08E4D6F91558737265DC36DD /* Pods-ECTabBarController_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ECTabBarController_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		4FC1D7FA09C76F1C10785ED22DE5B9E3 /* Pods-ECTabBarController_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ECTabBarController_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		51A1D9E6C0F4F4F1D52676A7F6B202DF /* UIViewController+ECTabBarControllerExtention.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+ECTabBarControllerExtention.m"; sourceTree = "<group>"; };
+		532FF7FAC5EABAA4674C0C283B3FBAE5 /* ECTabBarController.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = ECTabBarController.modulemap; sourceTree = "<group>"; };
+		68AC97CB285FE0B4CF271EFAEC303B6A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6CBE471E8C337289A06182C339F18EEA /* Pods-ECTabBarController_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ECTabBarController_Example-umbrella.h"; sourceTree = "<group>"; };
+		6E8B377336EDAE792839EAA65BE675D5 /* Pods-ECTabBarController_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ECTabBarController_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		739B13D4E2ADA69FA044E86CF2CCD166 /* Pods-ECTabBarController_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ECTabBarController_Example.release.xcconfig"; sourceTree = "<group>"; };
+		752537D82B3E7AD5283722CC70E8BE99 /* Pods-ECTabBarController_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-ECTabBarController_Example.modulemap"; sourceTree = "<group>"; };
+		79F8235BEA1B0BB1628F2DAC90C97354 /* ECTabBar.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ECTabBar.h; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9A52B931B6D0EAD7C152404D14660A8E /* Pods-ECTabBarController_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ECTabBarController_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		AF21D1317BAA26F79627CACEB820F326 /* ECTabBarController.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ECTabBarController.framework; path = ECTabBarController.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B223ADAF732C9B2356AB7B31B79FF9D5 /* Pods-ECTabBarController_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ECTabBarController_Tests-resources.sh"; sourceTree = "<group>"; };
+		B2DD3FDF48D39774A9AE8122E0082A29 /* ECTabBarController-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ECTabBarController-dummy.m"; sourceTree = "<group>"; };
+		B7633548701CA9642C33218E829B3AEA /* ECTabBarController.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ECTabBarController.xcconfig; sourceTree = "<group>"; };
+		BC78269E44483ACE1E7A9802E4313356 /* Pods-ECTabBarController_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ECTabBarController_Tests-dummy.m"; sourceTree = "<group>"; };
+		CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		D1FD4FE33FFC5D06A4D48D7EFB730307 /* UIViewController+ECTabBarControllerExtention.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIViewController+ECTabBarControllerExtention.h"; sourceTree = "<group>"; };
+		D62A88289A1066C9B2C7AEB311B7CF52 /* ECTabBarController-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ECTabBarController-umbrella.h"; sourceTree = "<group>"; };
+		D800E8F1DB5DC97617A10B4C052BE71B /* Pods-ECTabBarController_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-ECTabBarController_Tests.modulemap"; sourceTree = "<group>"; };
+		DE8AC72108C619E6B6BA9A099466685E /* Pods-ECTabBarController_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ECTabBarController_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		E80C3ED126EFE55C8C0E1B6AF2554C8C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ED984DBEEEB5099F259ADDE6DC34910A /* ECConstants.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ECConstants.h; sourceTree = "<group>"; };
+		FB7017AC38658DCC7F37CD33F5B7DF91 /* Pods_ECTabBarController_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ECTabBarController_Tests.framework; path = "Pods-ECTabBarController_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		400AE17E2599C751D2522309A4AC67A8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				682EBD7B67C5D0AD9FDD1EDDFDAFC6D3 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B2F533A1E306C57C02794E52C8E4F50B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B88428E517FB70DE38910883BD0ACAC7 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CDF7A0B9382C914BCB400B9069B90DA6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C58065004C4415AA3C30604BACD9E944 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7531C8F8DE19F1AA3C8A7AC97A91DC29 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				F25402993103A2E9023B83E27FC9F72D /* Development Pods */,
+				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
+				C62C90E0F1C8BA3B5B06C15F5BBEFC59 /* Products */,
+				81F7B1DF720AA0087CDD4C2F2CB45656 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		81F7B1DF720AA0087CDD4C2F2CB45656 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				D4083306B55CFDE5CDFFB36E82CE59BD /* Pods-ECTabBarController_Example */,
+				FFBD9E6B694EE53F62C0A3AF9DC0097C /* Pods-ECTabBarController_Tests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				7531C8F8DE19F1AA3C8A7AC97A91DC29 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C26857C46CE0D77259D293982976227E /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				ED984DBEEEB5099F259ADDE6DC34910A /* ECConstants.h */,
+				0C3B2E111D8F17C9ADDCF8DBDFCEB461 /* ECPlusButton.h */,
+				1BDBB9D187B2C07DFE146A98134E4262 /* ECPlusButton.m */,
+				79F8235BEA1B0BB1628F2DAC90C97354 /* ECTabBar.h */,
+				3EC21DEC6FD50EB3DBCF0C940DF8BCF7 /* ECTabBar.m */,
+				0099F9E17E0C441D3D2C024F4B2C38A7 /* ECTabBarController.h */,
+				1D9E4A76C03CF7FC49A9C9AF3F16AC99 /* ECTabBarController.m */,
+				D1FD4FE33FFC5D06A4D48D7EFB730307 /* UIViewController+ECTabBarControllerExtention.h */,
+				51A1D9E6C0F4F4F1D52676A7F6B202DF /* UIViewController+ECTabBarControllerExtention.m */,
+			);
+			name = Classes;
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		C62C90E0F1C8BA3B5B06C15F5BBEFC59 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AF21D1317BAA26F79627CACEB820F326 /* ECTabBarController.framework */,
+				236E3284517FEDA24989DCA847A4BEA7 /* Pods_ECTabBarController_Example.framework */,
+				FB7017AC38658DCC7F37CD33F5B7DF91 /* Pods_ECTabBarController_Tests.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D3C33A242FDC2A12A37DA3DCDFE7D439 /* ECTabBarController */ = {
+			isa = PBXGroup;
+			children = (
+				F628043E61BF8065357E3FFF9650B2BD /* ECTabBarController */,
+				F682F21F42FE8AF863B20B51E8A5D89A /* Support Files */,
+			);
+			name = ECTabBarController;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		D4083306B55CFDE5CDFFB36E82CE59BD /* Pods-ECTabBarController_Example */ = {
+			isa = PBXGroup;
+			children = (
+				68AC97CB285FE0B4CF271EFAEC303B6A /* Info.plist */,
+				752537D82B3E7AD5283722CC70E8BE99 /* Pods-ECTabBarController_Example.modulemap */,
+				4141836A39E63B97F989587C3465F889 /* Pods-ECTabBarController_Example-acknowledgements.markdown */,
+				4D5AD7DA08E4D6F91558737265DC36DD /* Pods-ECTabBarController_Example-acknowledgements.plist */,
+				32199F9C543868E7FA922F9D84D4518D /* Pods-ECTabBarController_Example-dummy.m */,
+				235A43704850C991D9B884D6CFEF4AB9 /* Pods-ECTabBarController_Example-frameworks.sh */,
+				2B4BA1919F506BF6380791FF62464219 /* Pods-ECTabBarController_Example-resources.sh */,
+				6CBE471E8C337289A06182C339F18EEA /* Pods-ECTabBarController_Example-umbrella.h */,
+				13F40BC20E0B5B1901085ED947D9806B /* Pods-ECTabBarController_Example.debug.xcconfig */,
+				739B13D4E2ADA69FA044E86CF2CCD166 /* Pods-ECTabBarController_Example.release.xcconfig */,
+			);
+			name = "Pods-ECTabBarController_Example";
+			path = "Target Support Files/Pods-ECTabBarController_Example";
+			sourceTree = "<group>";
+		};
+		F25402993103A2E9023B83E27FC9F72D /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				D3C33A242FDC2A12A37DA3DCDFE7D439 /* ECTabBarController */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		F628043E61BF8065357E3FFF9650B2BD /* ECTabBarController */ = {
+			isa = PBXGroup;
+			children = (
+				C26857C46CE0D77259D293982976227E /* Classes */,
+			);
+			name = ECTabBarController;
+			path = ECTabBarController;
+			sourceTree = "<group>";
+		};
+		F682F21F42FE8AF863B20B51E8A5D89A /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				532FF7FAC5EABAA4674C0C283B3FBAE5 /* ECTabBarController.modulemap */,
+				B7633548701CA9642C33218E829B3AEA /* ECTabBarController.xcconfig */,
+				B2DD3FDF48D39774A9AE8122E0082A29 /* ECTabBarController-dummy.m */,
+				10C5666620B5CD1F5B4F839A70274D45 /* ECTabBarController-prefix.pch */,
+				D62A88289A1066C9B2C7AEB311B7CF52 /* ECTabBarController-umbrella.h */,
+				4B92F4F45C4CCB2A554B5E4AAE2F6F17 /* Info.plist */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/ECTabBarController";
+			sourceTree = "<group>";
+		};
+		FFBD9E6B694EE53F62C0A3AF9DC0097C /* Pods-ECTabBarController_Tests */ = {
+			isa = PBXGroup;
+			children = (
+				E80C3ED126EFE55C8C0E1B6AF2554C8C /* Info.plist */,
+				D800E8F1DB5DC97617A10B4C052BE71B /* Pods-ECTabBarController_Tests.modulemap */,
+				6E8B377336EDAE792839EAA65BE675D5 /* Pods-ECTabBarController_Tests-acknowledgements.markdown */,
+				DE8AC72108C619E6B6BA9A099466685E /* Pods-ECTabBarController_Tests-acknowledgements.plist */,
+				BC78269E44483ACE1E7A9802E4313356 /* Pods-ECTabBarController_Tests-dummy.m */,
+				4FC1D7FA09C76F1C10785ED22DE5B9E3 /* Pods-ECTabBarController_Tests-frameworks.sh */,
+				B223ADAF732C9B2356AB7B31B79FF9D5 /* Pods-ECTabBarController_Tests-resources.sh */,
+				4B173A76181F195A313A9BE27FA19BC2 /* Pods-ECTabBarController_Tests-umbrella.h */,
+				9A52B931B6D0EAD7C152404D14660A8E /* Pods-ECTabBarController_Tests.debug.xcconfig */,
+				392C2C92685A421AF9CADDC827A16937 /* Pods-ECTabBarController_Tests.release.xcconfig */,
+			);
+			name = "Pods-ECTabBarController_Tests";
+			path = "Target Support Files/Pods-ECTabBarController_Tests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		1F21CD13968499ED1FCE642858B4FE3F /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2278F8F9ACF658FDD47C513D9D97F4AA /* Pods-ECTabBarController_Tests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		38A3056E02735566CC590F4355293656 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EA306EC12E3B313ACD9A11B5683EE8C8 /* Pods-ECTabBarController_Example-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C680A10047A444CCB77346C8C2B75BE1 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D2DAD838E53D97583945F5D183F0A15B /* ECConstants.h in Headers */,
+				B1499079D18583558D9787A987871787 /* ECPlusButton.h in Headers */,
+				6F80A3CAD21A9B753FB6B8DF45DF3C1E /* ECTabBar.h in Headers */,
+				3A7BF5D5C5C48F11B804947A435DDDBF /* ECTabBarController-umbrella.h in Headers */,
+				2F3311F3526DD510AFC9412397770DB3 /* ECTabBarController.h in Headers */,
+				E313880B2C829ED532E2FD96207784BA /* UIViewController+ECTabBarControllerExtention.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		4BC46C665C27E98F3B01362EA1BBCAB1 /* Pods-ECTabBarController_Example */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8EA2B15F7D929FE425EDE92F2297EB98 /* Build configuration list for PBXNativeTarget "Pods-ECTabBarController_Example" */;
+			buildPhases = (
+				819F3F2EAC9C47EF483627BB46407447 /* Sources */,
+				CDF7A0B9382C914BCB400B9069B90DA6 /* Frameworks */,
+				38A3056E02735566CC590F4355293656 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7DD8C36633C34BA796E0B574DA1639F2 /* PBXTargetDependency */,
+			);
+			name = "Pods-ECTabBarController_Example";
+			productName = "Pods-ECTabBarController_Example";
+			productReference = 236E3284517FEDA24989DCA847A4BEA7 /* Pods_ECTabBarController_Example.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		60DA92E69075DB8B7CF2168A494F7BEC /* Pods-ECTabBarController_Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9E3323821219684DE0FD98252D2C70D2 /* Build configuration list for PBXNativeTarget "Pods-ECTabBarController_Tests" */;
+			buildPhases = (
+				151CF49D9ADF09F3182B3EB1D753CB3F /* Sources */,
+				400AE17E2599C751D2522309A4AC67A8 /* Frameworks */,
+				1F21CD13968499ED1FCE642858B4FE3F /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-ECTabBarController_Tests";
+			productName = "Pods-ECTabBarController_Tests";
+			productReference = FB7017AC38658DCC7F37CD33F5B7DF91 /* Pods_ECTabBarController_Tests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		94EED4F8A971EA5E2FE3996C7CFFCD59 /* ECTabBarController */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8F1BB1B7C798B1421433DA528CFBD618 /* Build configuration list for PBXNativeTarget "ECTabBarController" */;
+			buildPhases = (
+				857A7FFABFA36692016F4C5F227805F0 /* Sources */,
+				B2F533A1E306C57C02794E52C8E4F50B /* Frameworks */,
+				C680A10047A444CCB77346C8C2B75BE1 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ECTabBarController;
+			productName = ECTabBarController;
+			productReference = AF21D1317BAA26F79627CACEB820F326 /* ECTabBarController.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0700;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = C62C90E0F1C8BA3B5B06C15F5BBEFC59 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				94EED4F8A971EA5E2FE3996C7CFFCD59 /* ECTabBarController */,
+				4BC46C665C27E98F3B01362EA1BBCAB1 /* Pods-ECTabBarController_Example */,
+				60DA92E69075DB8B7CF2168A494F7BEC /* Pods-ECTabBarController_Tests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		151CF49D9ADF09F3182B3EB1D753CB3F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8105660595B90CB3FD1C287DDC21DF03 /* Pods-ECTabBarController_Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		819F3F2EAC9C47EF483627BB46407447 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F74C8509B14162AB863F3C4C224085B3 /* Pods-ECTabBarController_Example-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		857A7FFABFA36692016F4C5F227805F0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D1F268216D0765CC0FD1A52006B52450 /* ECPlusButton.m in Sources */,
+				76ED15C00FDBAD8ABEB694B55C4B9F5B /* ECTabBar.m in Sources */,
+				2BB386D925B482343CD24E45B72A8721 /* ECTabBarController-dummy.m in Sources */,
+				EE2A9468BB662B37E90384B8E8B24407 /* ECTabBarController.m in Sources */,
+				DC134D7C86CC7F4C62AD8F1D69A3B5A5 /* UIViewController+ECTabBarControllerExtention.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		7DD8C36633C34BA796E0B574DA1639F2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = ECTabBarController;
+			target = 94EED4F8A971EA5E2FE3996C7CFFCD59 /* ECTabBarController */;
+			targetProxy = 500C498F3BCA338065FF59C6C4EFDAD3 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		0100B197FF508ACA93B845B42ACCB24C /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 392C2C92685A421AF9CADDC827A16937 /* Pods-ECTabBarController_Tests.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-ECTabBarController_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-ECTabBarController_Tests/Pods-ECTabBarController_Tests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_ECTabBarController_Tests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		1195FF59A96350BD6E53AE3C2F7C5D38 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9A52B931B6D0EAD7C152404D14660A8E /* Pods-ECTabBarController_Tests.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-ECTabBarController_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-ECTabBarController_Tests/Pods-ECTabBarController_Tests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_ECTabBarController_Tests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		29AE3EF93BC897438B2444F296B1B601 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 13F40BC20E0B5B1901085ED947D9806B /* Pods-ECTabBarController_Example.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-ECTabBarController_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-ECTabBarController_Example/Pods-ECTabBarController_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_ECTabBarController_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		3D7FB866EAE873FF9F90865103BCB432 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B7633548701CA9642C33218E829B3AEA /* ECTabBarController.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/ECTabBarController/ECTabBarController-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/ECTabBarController/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/ECTabBarController/ECTabBarController.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = ECTabBarController;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		8AA3433E599BE9697D1D3511BF0D9865 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 739B13D4E2ADA69FA044E86CF2CCD166 /* Pods-ECTabBarController_Example.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-ECTabBarController_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-ECTabBarController_Example/Pods-ECTabBarController_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_ECTabBarController_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		8DED8AD26D381A6ACFF202E5217EC498 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9E1E4E48AF2EAB23169E611BF694090A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		D9C7E44EEA317658D4375307AED108CF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B7633548701CA9642C33218E829B3AEA /* ECTabBarController.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/ECTabBarController/ECTabBarController-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/ECTabBarController/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/ECTabBarController/ECTabBarController.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = ECTabBarController;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9E1E4E48AF2EAB23169E611BF694090A /* Debug */,
+				8DED8AD26D381A6ACFF202E5217EC498 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8EA2B15F7D929FE425EDE92F2297EB98 /* Build configuration list for PBXNativeTarget "Pods-ECTabBarController_Example" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				29AE3EF93BC897438B2444F296B1B601 /* Debug */,
+				8AA3433E599BE9697D1D3511BF0D9865 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8F1BB1B7C798B1421433DA528CFBD618 /* Build configuration list for PBXNativeTarget "ECTabBarController" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D9C7E44EEA317658D4375307AED108CF /* Debug */,
+				3D7FB866EAE873FF9F90865103BCB432 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9E3323821219684DE0FD98252D2C70D2 /* Build configuration list for PBXNativeTarget "Pods-ECTabBarController_Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1195FF59A96350BD6E53AE3C2F7C5D38 /* Debug */,
+				0100B197FF508ACA93B845B42ACCB24C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}

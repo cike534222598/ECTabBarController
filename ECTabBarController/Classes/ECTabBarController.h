@@ -6,8 +6,8 @@
 //  Copyright (c) 2016 Jame. All rights reserved.
 //
 
-@import Foundation;
-@import UIKit;
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 #import "ECPlusButton.h"
 #import "UIViewController+ECTabBarControllerExtention.h"

@@ -6,7 +6,7 @@
 //  Copyright (c) 2016 Jame. All rights reserved.
 //
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 #import "ECConstants.h"
 @class ECPlusButton;
 

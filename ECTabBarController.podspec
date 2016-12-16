@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ECTabBarController'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'ECTabBarController一个简单易用的TabBar.'
 
 # This description is used to generate tags and improve search results.
